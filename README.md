@@ -1,0 +1,2 @@
+# DanmakuBlockingRulesCN
+DanmakuBlockingRulesCN
