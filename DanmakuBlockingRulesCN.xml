@@ -1,3 +1,7 @@
 <filters>
-	<item enabled="true">r=来了</item>
+	<item enabled="true">r=((来了|来啦)\s*(!|！)*\s*)+</item>
+	<!--
+	<item enabled="true">r=</item>
+	<item enabled="true">r=(.*第.*名.*)*((来了|来啦)\s*(!|！)*\s*)+(.*第.*名.*)*</item>
+	-->
 </filters>
